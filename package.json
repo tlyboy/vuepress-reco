@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Guany",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.39.3",
+    "eslint": "^8.41.0",
+    "vuepress": "^1.9.9",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}
