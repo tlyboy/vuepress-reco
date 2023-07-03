@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.39.6",
-    "eslint": "^8.43.0",
+    "eslint": "^8.44.0",
     "vuepress": "^1.9.9",
     "vuepress-theme-reco": "^1.6.17"
   }
